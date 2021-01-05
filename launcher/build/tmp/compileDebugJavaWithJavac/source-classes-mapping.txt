@@ -1,0 +1,2 @@
+com/DefaultCompany/UaaLExample/BuildConfig.java
+ com.DefaultCompany.UaaLExample.BuildConfig
