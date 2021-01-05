@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibraryRemote2.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibraryRemote2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidBuild.iml" filepath="$PROJECT_DIR$/.idea/modules/androidBuild.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/androidBuild.launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/androidBuild.launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mylibrary/androidBuild.mylibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/mylibrary/androidBuild.mylibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibrary/androidBuild.unityLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibrary/androidBuild.unityLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibraryLib/androidBuild.unityLibraryLib.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibraryLib/androidBuild.unityLibraryLib.iml" />
     </modules>
   </component>
 </project>
